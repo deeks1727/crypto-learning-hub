@@ -75,4 +75,6 @@ We would like to express our gratitude to the following projects and services:
 
 - **TypeScript**: For static type checking.
 
+- Reviewed and explored this repository as part of learning about crypto concepts.
+
 For more information, visit our [website](https://crypto-learning-hub.vercel.app/).
